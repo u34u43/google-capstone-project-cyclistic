@@ -2,6 +2,7 @@
 # How Does a Bike-Share Navigate Speedy Success?
 For this project, I will perform the real-world tasks of a junior data analyst for the marketing team at Cyclistic, a bike-share company in Chicago.
 
+The purpose of this analysis is to develop marketing strategies in order to increase the number of annual members using this Cyclistic program. To do this, it is necessary to better understand how casual riders differ from annual members, and why random participants buy a membership in this Cyclistic program.
 
 In this project, I have completed all phases of data analysis, which are: Ask, Prepare, Process, Analyze, Share and Act.
 The tools I used in this analysis:
